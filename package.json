@@ -1,0 +1,31 @@
+{
+  "name": "real-farm",
+  "version": "1.0.0",
+  "description": "farm shop project in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:realdinho/real-farm.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "Realdo Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/realdinho/real-farm/issues"
+  },
+  "homepage": "https://github.com/github.com/realdinho/real-farm#readme",
+  "dependencies": {
+    "slugify": "^1.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
